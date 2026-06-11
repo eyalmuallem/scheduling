@@ -28,7 +28,7 @@ import { DAYS_OF_WEEK, TASKS, TASK_COLORS, TaskType, getWeekStart, getWeekDates,
 import { cn } from '@/lib/utils';
 import useSWR from 'swr';
 
-const COMMANDER_PASSWORD = '1234';
+const COMMANDER_PASSWORD = '10203040';
 
 const ROLE_WAREHOUSE = '[מחסנאי]';
 const ROLE_SOUNDMAN = '[סאונדמן]';
